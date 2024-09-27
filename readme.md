@@ -24,7 +24,7 @@ Al propietario de un gimnasio le gustaría digitalizar sus horarios, así que te
 
     2.2 Muestra las imágenes que se encuentra en la carpeta de `imgs`
 
-3. Crea un bloque de navegación e inclúyelo en ambos archivos, `index.html` y `gatitos.html`
+3. Crea un bloque de navegación e inclúyelo en ambos archivos, `index.html` y `gallery.html`
 
     3.1 Crea los enlaces que lleven a `index.html` y `gatitos.html` y te permita navegar entre las dos páginas
 
