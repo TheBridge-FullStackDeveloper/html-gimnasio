@@ -26,7 +26,7 @@ Al propietario de un gimnasio le gustaría digitalizar sus horarios, así que te
 
 3. Crea un bloque de navegación e inclúyelo en ambos archivos, `index.html` y `gallery.html`
 
-    3.1 Crea los enlaces que lleven a `index.html` y `gatitos.html` y te permita navegar entre las dos páginas
+    3.1 Crea los enlaces que lleven a `index.html` y `gallery.html` y te permita navegar entre las dos páginas
 
 ### Etiquetas necesarias ###
 
